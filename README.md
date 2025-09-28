@@ -22,34 +22,18 @@ The **Greedy Algorithm** is shown to consistently outperform the other approache
 @inproceedings{Conthereum_Zareh_2025,
   author = {Zareh Chahoki, Atefeh and Herlihy, Maurice and Roveri, Marco},
   title = {Conthereum: Concurrent Ethereum Optimized Transaction Scheduling for Multi-Core Execution},
+  booktitle={2025 7th Conference on Blockchain Research & Applications for Innovative Networks and Services (BRAINS)}, 
   year = {2025},
-  isbn = {-},
-  publisher = {Association for Computing Machinery},
-  address = {New York, NY, USA},
+  address = {Zurich, Switzerland},
   url = {-},
   doi = {-},
-  booktitle = {The 37th ACM Symposium on Parallelism in Algorithms and Architectures},
-  pages = {349--358},
-  numpages = {22},
-  location = {Portland, Oregon, USA},
-  series = {SPAA '25}
+  numpages = {10},
+  location = {Zurich, Switzerland},
 }
-
-@inproceedings{Extended_Conthereum_Zareh_2025,
-  author = {Zareh Chahoki, Atefeh and Herlihy, Maurice and Roveri, Marco},
-  title = {Extended Conthereum: Advanced Multi-Core Transaction Scheduling with Enhanced Evaluations},
-  year = {2025},
-  isbn = {-},
-  publisher = {Beyond the Chain: Workshop on Next-Generation Distributed Ledger Technologies (NextGenDLT)},
-  booktitle = {The 3rd Beyond the Chain Workshop on Next-Generation Distributed Ledger Technologies},
-  location = {Pisa, Italy},
-  series = {NextGenDLT'25}
-}
-
 @article{Survey_Zareh_2025,
   author = {Atefeh Zareh Chahoki, Maurice Herlihy, Marco Roveri},
   title = {SoK: Concurrency in Blockchain, A Systematic Literature Review and Unveiling a Misconception},
-  journal = {ACM Computing Surveys},
-  year = {2025}
+  journal={arXiv preprint arXiv:2506.01885},
+  year={2025}
 }
 ```
